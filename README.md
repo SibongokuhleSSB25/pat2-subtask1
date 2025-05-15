@@ -1,5 +1,5 @@
 
-What Morse code is
+
 Morse code is a method of encoding text characters using sequences of dots (short signals) and dashes (long signals). It was developed in the 1830s and 1840s by Samuel Morse and Alfred Vail for use in telegraphy. Each letter of the alphabet and each numeral is represented by a unique combination of dots and dashes. For example:
 
 * A = ·–
